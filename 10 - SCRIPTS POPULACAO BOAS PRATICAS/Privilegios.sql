@@ -1,0 +1,22 @@
+INSERT INTO "Privilegios" (nome_privilegio)
+VALUES
+('Administrador'),
+('Gerente Geral'),
+('Gerente Comercial'),
+('Gerente Financeiro'),
+('Supervisor'),
+('Comprador'),
+('Vendedor'),
+('Caixa'),
+('Estoquista'),
+('Analista Financeiro'),
+('Analista Fiscal'),
+('Analista Contábil'),
+('Analista de RH'),
+('Analista de TI'),
+('Suporte Técnico'),
+('Auditor'),
+('Consulta'),
+('Relatórios'),
+('Aprovação de Compras'),
+('Expedição');
